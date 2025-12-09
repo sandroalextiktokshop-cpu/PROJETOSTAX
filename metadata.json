@@ -1,0 +1,5 @@
+{
+  "name": "FODE-FLIX",
+  "description": "A Netflix-style landing page designed as a Telegram channel bridge, featuring a dark theme, responsive layout, and seamless redirection logic.",
+  "requestFramePermissions": []
+}
